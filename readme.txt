@@ -1,5 +1,12 @@
-# bulk-images-to-posts
-Wordpress plugin to create posts from a bunch of images at once
+=== Bulk Images to Posts ===
+Contributors: slugiscool99, mezzaninegold
+Donate link: https://adambn.com/
+Tags: images, posts, featured, artists, photographers, galleries, bulk, uploader,upload,Auto Post, image upload, Post, automatic, automation, autopost, image upload, media, thumbnail,batch,batches
+Requires at least: 3.0.0
+Tested up to: 5.0.2
+Stable tag: 4.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Bulk upload images to automatically create posts / custom posts with featured images. Updated from mezzaninegold's version
 
@@ -88,3 +95,7 @@ Go to the settings page from the sidebar
 
 = 0.5 =
 * Scan for custom taxonomies and add them to options panel
+
+== Upgrade Notice ==
+
+...
