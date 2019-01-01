@@ -3,18 +3,18 @@ Wordpress plugin to create posts from a bunch of images at once
 
 Bulk upload images to automatically create posts / custom posts with featured images. Updated from mezzaninegold's version
 
-== Description ==
-= Bulk upload Images to automatically create Posts =
+## Description ##
+### Bulk upload Images to automatically create Posts ###
 
 The perfect tool to quickly populate your site.
 
 Ideal for photographers, artists, galleries, photo blogs or any image based site.
 Easily batch upload images after an event, gig, exhibition, wedding etc creating individual posts.
 
-= How it works =
+### How it works ###
 Simply drag and drop your images and posts will automatically be created with post titles, featured images and the other options you've selected.
 
-= Options =
+### Options ###
 * Featured image automatically assigned.
 * Image file name is used as the post title.
 * Works with Custom Post Types.
@@ -23,10 +23,10 @@ Simply drag and drop your images and posts will automatically be created with po
 * Options for including the image in the body of the post.
 * Image metadata title can also be used as the post title
 
-= Suggestions =
+### Suggestions ###
 Please leave a support message and I will respond asap.
 
-== Installation ==
+## Installation ##
 
 
 1. Upload `bulk-images-to-posts` to the `/wp-content/plugins/` directory
@@ -36,55 +36,59 @@ Please leave a support message and I will respond asap.
 
 
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions ##
 
-= How do I change the post type and taxonomy? =
+### How do I change the post type and taxonomy? ###
 
 Go to the settings page from the sidebar
 
 
-== Screenshots ==
+## Screenshots ##
 
 1. Preview of the settings page
 2. Preview of the uploader
 3. Example of an image being uploaded
 
-== Changelog ==
+## Changelog ##
 
-= 3.6.6.2 =
+### 3.7 ###
+* Updated for Wordpress 5
+* Fixed bugs where 50% of images would fail
+
+### 3.6.6.2 ###
 * Added Brazilian Portuguese translations by Celso Bessa
 
-= 3.6.6 =
+### 3.6.6 ###
 * Added translations
 
-= 3.6 =
+### 3.6 ###
 * Multiple taxonomies
 * Allow image metadata title to be used as the post title
 * Allow image to be included in the post content with image size option
 
-= 3.4 =
+### 3.4 ###
 * Added post status
 
-= 3.3 =
+### 3.3 ###
 * The uploads box is now cleared when new taxonomies are selected and saved.
 
-= 3.2 =
+### 3.2 ###
 * Added brief instructions following feedback.
 
-= 3.1 =
+### 3.1 ###
 * Minor amends
 
-= 3.0 =
+### 3.0 ###
 * Complete rebuild using dropzone.js
 * Added to wordpress repository
 
-= 2.0 =
+### 2.0 ###
 * Renamed plugin
 * Finished testing.
 
-= 1.0 =
+### 1.0 ###
 * Custom media uploader on the options panel so that only images uploaded there are added as posts.
 * Another change.
 
-= 0.5 =
+### 0.5 ###
 * Scan for custom taxonomies and add them to options panel

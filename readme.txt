@@ -4,7 +4,7 @@ Donate link: https://adambn.com/
 Tags: images, posts, featured, artists, photographers, galleries, bulk, uploader,upload,Auto Post, image upload, Post, automatic, automation, autopost, image upload, media, thumbnail,batch,batches
 Requires at least: 3.0.0
 Tested up to: 5.0.2
-Stable tag: 4.0
+Stable tag: 3.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,6 +57,10 @@ Go to the settings page from the sidebar
 3. Example of an image being uploaded
 
 == Changelog ==
+
+= 3.7 = 
+* Updated for Wordpress 5
+* Fixed bugs where 50% of images would fail
 
 = 3.6.6.2 =
 * Added Brazilian Portuguese translations by Celso Bessa
