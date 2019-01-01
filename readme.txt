@@ -1,4 +1,4 @@
-=== Posts from Bulk Images ===
+=== Images to Posts ===
 Contributors: slugiscool99, mezzaninegold
 Donate link: https://adambn.com/
 Tags: images, posts, featured, artists, photographers, galleries, bulk, uploader,upload,Auto Post, image upload, Post, automatic, automation, autopost, image upload, media, thumbnail,batch,batches

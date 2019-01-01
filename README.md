@@ -1,4 +1,4 @@
-# bulk-images-to-posts
+# images-to-posts
 Wordpress plugin to create posts from a bunch of images at once
 
 Bulk upload images to automatically create posts / custom posts with featured images. Updated from mezzaninegold's version
@@ -29,7 +29,7 @@ Please leave a support message and I will respond asap.
 ## Installation ##
 
 
-1. Upload `bulk-images-to-posts` to the `/wp-content/plugins/` directory
+1. Upload `images-to-posts` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to the Bulk > Settings page and configure the plugin to work with your posts types.
 4. Go to Bulk > Importer select your taxonomy and upload your images.

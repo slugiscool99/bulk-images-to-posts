@@ -1,10 +1,10 @@
 <?php
 /*
-* Plugin Name: Bulk Images to Posts
-* Plugin URI: https://www.adambn.com
-* Text Domain: bulk-images-to-posts
+* Plugin Name: Images to Posts
+* Plugin URI: https://www.adambn.com/images-to-posts
+* Text Domain: images-to-posts
 * Domain Path: /lang
-* Description: Bulk upload images to automatically create posts or custom posts with featured images.
+* Description: Bulk upload images to automatically create posts or pages from them
 * Version: 3.7
 * Author: Adam Barr-Neuwirth (slugiscool99), Alastair (mezzaninegold)
 * Author URI: https://www.adambn.com
