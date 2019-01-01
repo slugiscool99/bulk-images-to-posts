@@ -4,9 +4,9 @@
 * Plugin URI: https://www.adambn.com
 * Text Domain: bulk-images-to-posts
 * Domain Path: /lang
-* Description: Bulk upload images to automatically create posts / custom posts with featured images.
-* Version: 4.0
-* Author: Adam Barr-Neuwirth
+* Description: Bulk upload images to automatically create posts or custom posts with featured images.
+* Version: 3.7
+* Author: Adam Barr-Neuwirth (slugiscool99), Alastair (mezzaninegold)
 * Author URI: https://www.adambn.com
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
