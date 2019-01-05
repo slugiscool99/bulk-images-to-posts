@@ -1,5 +1,5 @@
 # images-to-posts
-Wordpress plugin to create posts from a bunch of images at once
+Wordpress plugin to create posts from a bunch of images at once. Available <a href="https://wordpress.org/plugins/images-to-posts">here</a>
 
 Bulk upload images to automatically create posts / custom posts with featured images. Updated from mezzaninegold's version
 
