@@ -1,6 +1,6 @@
 === Images to Posts ===
 Contributors: slugiscool99, mezzaninegold
-Donate link: https://adambn.com/
+Donate link: paypal.me/adamneuwirth
 Tags: images, posts, featured, artists, photographers, galleries, bulk, uploader,upload,Auto Post, image upload, Post, automatic, automation, autopost, image upload, media, thumbnail,batch,batches
 Requires at least: 3.0.0
 Tested up to: 5.0.2
@@ -35,15 +35,18 @@ Please leave a support message and I will respond asap.
 
 == Installation ==
 
-
-1. Upload `bulk-images-to-posts` to the `/wp-content/plugins/` directory
+1. Install the plugin from the directory or by uploading a zip
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Go to the Bulk > Settings page and configure the plugin to work with your posts types.
-4. Go to Bulk > Importer select your taxonomy and upload your images.
+3. Go to the Bulk > Settings page and configure the plugin options.
+4. Go to Bulk > Uploader and upload your images.
 
 
 
 == Frequently Asked Questions ==
+
+= What is a taxonomy? =
+
+It's a way to tag or categorize all the images you upload at once
 
 = How do I change the post type and taxonomy? =
 
@@ -54,7 +57,6 @@ Go to the settings page from the sidebar
 
 1. Preview of the settings page
 2. Preview of the uploader
-3. Example of an image being uploaded
 
 == Changelog ==
 
